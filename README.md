@@ -51,12 +51,12 @@ To understand cryptocurrency market volatility and design a structured framework
 
 ---
 
-# 📌 Milestone 2 – Data Collection & Initial Analysis
+#  Milestone 2 – Data Collection & Initial Analysis
 
-### 🎯 Objective
+###  Objective
 To collect real cryptocurrency market data and perform preprocessing, trend observation, and initial volatility analysis.
 
-### ✅ Covered in This Milestone
+### Covered in This Milestone
 - Data collection using CoinGecko API  
 - Data cleaning and preprocessing:
   - Handling missing values  
@@ -133,7 +133,7 @@ To transform the analytical model into a complete crypto risk analytics platform
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 - **Frontend:** Streamlit  
 - **Backend:** Python  
